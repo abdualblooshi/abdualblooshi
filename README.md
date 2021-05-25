@@ -1,4 +1,4 @@
-<h3 align="center">I'm Abdulrahman Alblooshi, a 20-year old software developer who does Web development, Backend development and currently majoring Computer Science at University. Passionate to contributing in open-source projects, solving problems and making cool products.</h3>
+<h3 align="center">Hi! I'm Abdulrahman, a 20-year old software developer who does Web development and Full Stack Development</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitanimous" alt="gitanimous" /></a> </p>
 
