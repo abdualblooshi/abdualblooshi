@@ -1,18 +1,20 @@
-<h3 align="center">Hi! I'm Abdulrahman, a 20-year old software developer who does Web development and Full Stack Development</h3>
+<h2 align="center">🏆 You just discovered my profile!</h3>
+<h3 align="center">Hi!👋 I'm Abdulrahman, a 20-year old software developer who does Web development and Full Stack Development</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitanimous" alt="gitanimous" /></a> </p>
 
-- 📝 I regulary write articles on [pioverflow.com](pioverflow.com)
+<!-- 📝 I regulary write articles on [pioverflow.com](pioverflow.com) -->
 
 - 📫 How to reach me **abdulrahman@blooshi.ae**
 
-### Blogs posts
+<!--### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/animous" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="animous" height="30" width="40" /></a>
+<a href="https://dev.to/animous" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+<a href="https://www.linkedin.com/in/abdulrahman-alblooshi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
