@@ -1,5 +1,5 @@
 <h2 align="center">🏆 You just discovered my profile!</h3>
-<h3 align="center">Hi!👋 I'm Abdulrahman, a 20-year old software developer who does Web development and Full Stack Development</h3>
+<h3 align="center">Hi 👋 I'm Abdulrahman!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitanimous" alt="gitanimous" /></a> </p>
 
