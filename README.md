@@ -13,7 +13,6 @@
 <p align="center">
 <a href="https://dev.to/animous" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 <a href="https://www.linkedin.com/in/abdulrahman-alblooshi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/b03ouf" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="mailto:abdulrahman@blooshi.ae" target="_blank"><img src="https://img.shields.io/badge/-Email-red" alt="Email Address"></a>
 </p>
 
