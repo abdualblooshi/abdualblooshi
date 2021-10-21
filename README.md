@@ -16,5 +16,5 @@
 <a href="mailto:abdulrahman@blooshi.ae" target="_blank"><img src="https://img.shields.io/badge/-Email-red" alt="Email Address"></a>
 </p>
 
-<p align="center" >&nbsp;<img align="left" height="240" width="50%" src="https://github-readme-stats.vercel.app/api?username=gitanimous&count_private=true&include_all_commits=true&layout=compact" alt="gitanimous" />
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitanimous&layout=compact" alt="gitanimous" /></p>
+<p align="center" >&nbsp;<img align="left" height="170" width="50%" src="https://github-readme-stats.vercel.app/api?username=gitanimous&count_private=true&include_all_commits=true&layout=compact" alt="gitanimous" />
+<img align="right" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitanimous&layout=compact" alt="gitanimous" /></p>
