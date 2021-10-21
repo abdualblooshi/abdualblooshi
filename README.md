@@ -17,4 +17,4 @@
 </p>
 
 <p align="center" >&nbsp;<img align="left" height="170" width="50%" src="https://github-readme-stats.vercel.app/api?username=gitanimous&count_private=true&include_all_commits=true&layout=compact" alt="gitanimous" />
-<img align="left" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitanimous&layout=compact" alt="gitanimous" /></p>
+<img align="left" height="170" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitanimous&layout=compact" alt="gitanimous" /></p>
