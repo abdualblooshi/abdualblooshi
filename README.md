@@ -16,4 +16,4 @@
 <a href="mailto:abdulrahman@blooshi.ae" target="_blank"><img src="https://img.shields.io/badge/-Email-red" alt="Email Address"></a>
 </p>
 
-<p align="center" ><img align="center" height="190" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitanimous&layout=compact" alt="gitanimous" /></p>
+<img align="center" height="200vh" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitanimous&layout=compact" alt="gitanimous" />
