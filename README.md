@@ -1,7 +1,4 @@
-<div align="center">
-  <img height="375" src="https://i.imgur.com/RR3y7oV.gif"  />
-</div>
-
+  ![Abdualblooshi](https://github.com/abdualblooshi/abdualblooshi/assets/34681035/41d14f27-dd7f-43a4-a3bf-ff81fdc8e46b)
 ###
 
 <p align="center">Hi!👋I'm Abdulrahman, software developer who's passionate about Computer Science, Artificial Intelligence and Web Development</p>
