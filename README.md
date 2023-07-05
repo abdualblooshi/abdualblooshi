@@ -52,9 +52,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=abdualblooshi" alt="Layout with last medium posts"  />
-</div>
+## My lastest blog articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ###
 
