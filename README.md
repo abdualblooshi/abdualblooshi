@@ -55,6 +55,9 @@
 ## My lastest blog articles
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Docker? 🐋](https://dev.to/abdualblooshi/what-is-docker-4963)
+- [A month without the YouTube Rabbit Hole 🕳️](https://dev.to/abdualblooshi/a-month-without-the-youtube-rabbit-hole-49j5)
+- [Transforming SVG files into React Components 🖼️ -&gt;🧩](https://dev.to/abdualblooshi/transforming-svg-files-to-react-components-2aan)
 <!-- BLOG-POST-LIST:END -->
 
 ###
