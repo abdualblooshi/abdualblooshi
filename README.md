@@ -3,7 +3,7 @@
 ###
 
 
-<p align="center">Hi!👋I'm Abdulrahman, software developer who's passionate about Computer Science, Artificial Intelligence and Web Development</p>
+<h2 align="center">Hi!👋I'm Abdulrahman, software developer who's passionate about Computer Science, Artificial Intelligence and Web Development</p>
 
 ###
 
