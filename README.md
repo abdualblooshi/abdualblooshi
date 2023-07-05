@@ -1,5 +1,7 @@
-  ![Abdualblooshi](https://github.com/abdualblooshi/abdualblooshi/assets/34681035/41d14f27-dd7f-43a4-a3bf-ff81fdc8e46b)
+<img width="1000" alt="Abdualblooshi" src="https://github.com/abdualblooshi/abdualblooshi/assets/34681035/d879025f-da68-4fc5-9016-1d1306d6affa">
+
 ###
+
 
 <p align="center">Hi!👋I'm Abdulrahman, software developer who's passionate about Computer Science, Artificial Intelligence and Web Development</p>
 
