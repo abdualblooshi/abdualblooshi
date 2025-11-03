@@ -57,9 +57,9 @@
 ## My lastest blog articles
 
 <!-- BLOG-POST-LIST:START -->
-- [That Time I Installed Linux &lpar;Again&rpar; 🐧](https://bizarro.dev.to/abdualblooshi/that-time-i-installed-linux-again-3bmi)
-- [What is Docker? 🐋](https://bizarro.dev.to/abdualblooshi/what-is-docker-4963)
-- [A month without the YouTube Rabbit Hole 🕳️](https://bizarro.dev.to/abdualblooshi/a-month-without-the-youtube-rabbit-hole-49j5)
+- [That Time I Installed Linux &lpar;Again&rpar; 🐧](https://dev.to/abdualblooshi/that-time-i-installed-linux-again-3bmi)
+- [What is Docker? 🐋](https://dev.to/abdualblooshi/what-is-docker-4963)
+- [A month without the YouTube Rabbit Hole 🕳️](https://dev.to/abdualblooshi/a-month-without-the-youtube-rabbit-hole-49j5)
 <!-- BLOG-POST-LIST:END -->
 
 ###
